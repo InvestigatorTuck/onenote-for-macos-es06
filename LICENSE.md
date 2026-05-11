@@ -1,4 +1,4 @@
-
+smart Plugin for OneNote for macOS - database templates and export to PDF is the best OneNote for macOS plugin, featuring database templates and export to PDF. Safe, efficient,
 
 
 
